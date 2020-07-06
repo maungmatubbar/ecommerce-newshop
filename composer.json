@@ -6,9 +6,13 @@
     "type": "project",
     "require": {
         "php": ">=7.0.0",
+        "barryvdh/laravel-dompdf": "^0.8.6",
         "fideloper/proxy": "~3.3",
+        "gloudemans/shoppingcart": "^2.6",
+        "intervention/image": "^2.5",
         "laravel/framework": "5.5.*",
-        "laravel/tinker": "~1.0"
+        "laravel/tinker": "~1.0",
+        "laravelcollective/html": "^5.4.0"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
